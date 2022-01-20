@@ -18,3 +18,19 @@ code {
   align-items: center;
   justify-content: center;
 }
+label {
+  font-size: larger;
+  margin: 1vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input,
+select {
+  background-color: rgb(197, 193, 193);
+  margin: 1vh;
+  border-radius: 20px;
+}
+button {
+  padding: 0.3vh;
+  border-radius: 5px;
+}
