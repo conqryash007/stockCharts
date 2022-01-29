@@ -1,1 +1,2 @@
-# STOCK CHARTING APP
+# STOCK CHART 
+## using react apex-charts
